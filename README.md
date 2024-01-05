@@ -2,6 +2,7 @@
 Sign Language Label Reference
 https://docs.google.com/document/d/1YCC71Y6zXfjPzH4pjUPxE4mtqk8SJ2He_2RDMiTyjuU/edit?usp=sharing 
 
+**Step to modify this project**
 1. Run app.py (Make all the packages installed and the cam works fine.)
 2. Test any signs that have trained (based on the keypoint_classifier_label.csv)
 3. To add some new input labels, toggle "k" for input collection mode
